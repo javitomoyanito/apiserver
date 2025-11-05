@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Juan" },
+    { "id": 2, "nombre": "Ana" }
+  ],
+  "productos": [
+    { "id": 1, "item": "Laptop" }
+  ]
+}
